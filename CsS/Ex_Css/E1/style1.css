@@ -1,0 +1,11 @@
+th {
+    
+    border: 1px solid red;
+    margin: 2px;
+}
+
+td {
+    text-align: center;
+    border: 1px solid red;
+    margin: 2px;
+}
